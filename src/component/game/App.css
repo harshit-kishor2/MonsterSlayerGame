@@ -1,0 +1,7 @@
+.border {
+  height: 40px;
+  background: teal;
+}
+li {
+  list-style-type: none;
+}
